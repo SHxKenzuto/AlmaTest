@@ -1,7 +1,0 @@
-Ciao sto provando questa repo.
-Io invece sono abcdrea
-<<<<<<< HEAD
-sono Giancarlo
-=======
-seconda modifica.
->>>>>>> f0df26ea7ed50ed7202e2ed12b5f44e26cfa200c
